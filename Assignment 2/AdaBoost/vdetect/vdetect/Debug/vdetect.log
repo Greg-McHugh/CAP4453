@@ -1,0 +1,22 @@
+﻿  vdetect.cpp
+c:\adaboost\vdetect\vdetect\vdetect.cpp(435): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\adaboost\vdetect\vdetect\vdetect.cpp(424): warning C4101: 'filename': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(501): warning C4101: 'num_features': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'mean': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(494): warning C4101: 'var': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1482): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1482): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'double'
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1482): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1526): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1526): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 2 has type 'double'
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1526): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1738): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1739): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1764): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1769): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'isw': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ine': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'inw': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1748): warning C4101: 'ise': unreferenced local variable
+c:\adaboost\vdetect\vdetect\vdetect.cpp(1833): warning C4101: 'buffer': unreferenced local variable
+  vdetect.vcxproj -> C:\AdaBoost\vdetect\Debug\vdetect.exe
